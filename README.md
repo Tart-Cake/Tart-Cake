@@ -1,4 +1,11 @@
 ### Hi there 👋
+Hello! My name is **Mohamed AlJubaily**, I'm an undergraduate computer science student.
+
+I'm looking to taste every branch I'm curious about in the world of computer science ⭐✨
+
+- 🔭 I’m currently looking for my interest in computer science 
+- 🌱 I’m currently learning coding
+- ⚡ Fun fact: Hello World started to popularise with the C language ;) 
 
 <!--
 **Tart-Cake/Tart-Cake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
