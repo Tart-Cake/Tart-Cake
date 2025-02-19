@@ -5,7 +5,7 @@ My passion for Computer Science is huge, and I like to learn more about it every
 
 - 🔭 I’m currently working on improving myself.
 - 🌱 I’m currently learning AI algorithms to understand how AI works under the hood.
-- 📫 How to reach me: You can find me on [kaggle](https://www.kaggle.com/mohamedaljubaily) and [Linkedin](www.linkedin.com/in/mohamed-aljubaily-elgbily-66140827b).
+- 📫 How to reach me: You can find me on [kaggle](kaggle.com/mohamedaljubaily) and [Linkedin](linkedin.com/in/mohamed-aljubaily-elgbily-66140827b).
 - ⚡ Fun fact: Hello World started to popularise with the C language ;) 
 
 <!--
