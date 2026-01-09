@@ -1,11 +1,11 @@
 ### Hi there 👋
-Hello! My name is **Mohamed AlJubaily**, I'm an undergraduate computer science student.
+Hello! My name is **Mohamed AlJubaily**, and I'm an undergraduate computer science student.
 
-My passion for Computer Science is huge, and I like to learn more about it every day.
+My passion for Computer Science is immense, and I enjoy learning more about it every day.
 
 - 🔭 I’m currently working on improving myself.
-- 🌱 I’m currently learning AI algorithms to understand how AI works under the hood.
-- 📫 How to reach me: You can find me on [kaggle](https://www.kaggle.com/mohamedaljubaily) and [Linkedin](https://www.linkedin.com/in/mohamed-aljubaily-elgbily-66140827b).
+- 🌱 I’m currently learning web back-end to gain more knowledge about how the web works at a low level.
+- 📫 How to reach me: You can find me on [kaggle](https://www.kaggle.com/mohamedaljubaily) and [LinkedIn](https://www.linkedin.com/in/mohamed-aljubaily-elgbily-66140827b).
 - ⚡ Fun fact: Hello World started to popularise with the C language ;) 
 
 <!--
